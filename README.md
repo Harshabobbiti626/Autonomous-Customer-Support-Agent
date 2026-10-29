@@ -4,7 +4,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/orchestration-LangGraph-orange)](https://github.com/langchain-ai/langgraph)
 [![FastAPI](https://img.shields.io/badge/framework-FastAPI-009688)](https://fastapi.tiangolo.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Code style: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 A stateful, production-grade AI customer support agent built with **LangGraph**, **parameterized tool execution**, **deterministic guardrails**, and **Human-in-the-Loop (HITL) supervisor breakpoints**.
@@ -177,6 +176,3 @@ Interactive OpenAPI documentation will be available at:
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
